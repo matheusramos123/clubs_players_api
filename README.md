@@ -27,7 +27,7 @@ Perfect for learning database relationships and API development in Python.
 
 ## 📁 Project Structure
 
-
+``` bash
 clubs_players_api/
 ├─ api/
 │ └─ v1/
@@ -48,6 +48,7 @@ clubs_players_api/
 ├─ create_tables.py # DB table creation
 ├─ requirements.txt
 └─ .env # Environment variables (not tracked)
+```
 
 
 ---
